@@ -1,5 +1,5 @@
 # idvlabs-todo-list-app
-idvlabs ToDo List App Homework
+idvlabs ToDo List App (Assessment Project)
 
 Users can register with simple username and password.
 Usernames are unique.
